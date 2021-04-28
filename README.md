@@ -18,4 +18,4 @@ No canto superior direito, próximo ao seu avatar ou ícone de identidade, cliqu
 <p> - Escreva uma breve descrição. <p> 
 <p> - Selecione Inicializar este repositório com um README.<p> 
 
-!<img src="git123">
+<img src="git123.png" alt="Exemplo"
