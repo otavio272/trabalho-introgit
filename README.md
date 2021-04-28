@@ -12,7 +12,8 @@ Um repositório geralmente é usado para organizar um único projeto. Os reposit
  tudo o que seu projeto precisar. Recomendamos incluir um README ou um arquivo com informações sobre o seu projeto.
  
  <p> Para criar um novo repositório <p>
+ 
 No canto superior direito, próximo ao seu avatar ou ícone de identidade, clique em e selecione Novo repositório.
-- Nomeie seu repositório 
-- Escreva uma breve descrição.
-- Selecione Inicializar este repositório com um README.
+<p> - Nomeie seu repositório <p> 
+<p> - Escreva uma breve descrição. <p> 
+<p> - Selecione Inicializar este repositório com um README.<p> 
